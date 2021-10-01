@@ -8,17 +8,15 @@
 
 
 
-[<img align="left" alt="Samir | LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/LINKEDIN.svg" />][linkedin]
-[<img align="left" alt="Samir | Gmail" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Gmail1.png" />][Gmail]
-
-[<img align="left" alt="Samir | Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/TWITTER.svg" />][twitter]
-[<img align="left" alt="Samir | Facebook" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Facebook1.png" />][facebook]
-[<img align="left" alt="Samir | Whatsapp" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/WhatsApp1.png" />][whatsapp]
-[<img align="left" alt="Samir | LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Leetcode.jpg" />][LeetCode]
-[<img align="left" alt="Samir | CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/CodeChef.jpg" />][CodeChef]
-[<img align="left" alt="Samir | Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/Hackerrank.jpg" />][HackerRank]
-
-<br />
+<p align="left">
+<a href="https://twitter.com/anupamd29688766" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anupamd29688766" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samirpaul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/SocialLogo/LINKEDIN.svg" alt="dey-anupam" height="30" width="40" /></a>
+<a href="https://fb.com/anupam.dey.142687" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anupam.dey.142687" height="30" width="40" /></a>
+<a href="https://instagram.com/anupamdey1001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupamdey1001" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucnpxexyk-uuix9uqxn6ey6q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnpxexyk-uuix9uqxn6ey6q" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anupamdey_2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anupamdey_2001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ad_20u10141" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ad_20u10141" height="30" width="40" /></a>
+</p>
 
 ---
 
